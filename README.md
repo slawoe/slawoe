@@ -27,7 +27,7 @@ This is exactly what I have successfully completed with my App [Moodster](https:
 👥 &nbsp;love to work in teams  
 ☕️ &nbsp;always available for a good conversation  
 💬 &nbsp;ask me about everything you want  
-⚡ &nbsp;Fun fact: if you translate my last name it means serious. But it is just the name and not my lifestyle 😉
+⚡ &nbsp;fun fact: if you translate my last name it means serious. But it is just the name and not my lifestyle 😉
 
 ---
 

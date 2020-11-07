@@ -18,21 +18,20 @@ This is exactly what I have successfully completed with my App [Moodster](https:
 
 ### More about me:
 
-👨‍👩‍👧‍👦 even if I love to code, family always comes first
-💪 trying to get a better developer and person every single day
-📚 ongoing learning is absolutely important for me
-👾 gaming in my freetime
-🔭 currently working on my app Moodster & some little projects
-🌱 currently learning to improve my skills in React.js and vue
-👥 love to work in teams
-☕️ always available for a good conversation
-💬 ask me about everything you want
-⚡ Fun fact: if you translate my last name it means serious. But it is just the name and not my lifestyle 😉
+👨‍👩‍👧‍👦 &nbsp;even if I love to code, family always comes first  
+💪 &nbsp;trying to get a better developer and person every single day  
+📚 &nbsp;ongoing learning is absolutely important for me  
+👾 &nbsp;gaming in my freetime  
+🔭 &nbsp;currently working on my app Moodster & some little projects  
+🌱 &nbsp;currently learning to improve my skills in React.js and vue  
+👥 &nbsp;love to work in teams  
+☕️ &nbsp;always available for a good conversation  
+💬 &nbsp;ask me about everything you want  
+⚡ &nbsp;Fun fact: if you translate my last name it means serious. But it is just the name and not my lifestyle 😉
 
 ---
 
 ### Contact
 
-📫 info@slawomirernst.de
-
-🖥 [LinkedIn:](https://www.linkedin.com/in/slawomirernst/)
+📫  &nbsp;info@slawomirernst.de  
+🖥  &nbsp;[LinkedIn](https://www.linkedin.com/in/slawomirernst/)

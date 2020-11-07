@@ -1,6 +1,6 @@
 ### About Me
 
-Hi there 👋,
+Hi there 👋 ,
 
 my name is Slawomir Ernst and I'm a (Junior) Frontend Web Developer from Lüneburg who has left sales behind to pursue what I enjoy most: Coding and learning new stuff and ways to solve problems on a daily basis.
 

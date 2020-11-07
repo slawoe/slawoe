@@ -12,9 +12,7 @@ This is exactly what I have successfully completed with my App [Moodster](https:
 
 ### My Stats
 
-[![Slawo's github stats](https://github-readme-stats.vercel.app/api?username=slawoe&theme=graywhite&show_icons=true)](https://github.com/slawoe/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-two-silk.vercel.app/api/top-langs/?username=slawoe&theme=graywhite&show_icons=true&layout=compact)](https://github-readme-stats-two-silk.vercel.app)
+[![Slawo's github stats](https://github-readme-stats.vercel.app/api?username=slawoe&theme=graywhite&show_icons=true)](https://github.com/slawoe/github-readme-stats) [![Top Langs](https://github-readme-stats-two-silk.vercel.app/api/top-langs/?username=slawoe&theme=graywhite&show_icons=true&layout=compact)](https://github-readme-stats-two-silk.vercel.app)
 
 ---
 
@@ -35,6 +33,6 @@ This is exactly what I have successfully completed with my App [Moodster](https:
 
 ### Contact
 
-📫 Mail: info@slawomirernst.de
+📫 info@slawomirernst.de
 
 🖥 [LinkedIn:](https://www.linkedin.com/in/slawomirernst/)

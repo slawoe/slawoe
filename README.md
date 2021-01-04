@@ -20,7 +20,7 @@ This is exactly what I have successfully completed with my App [Moodster](https:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=slawoe)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slawoe&" alt="slawoe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slawoe" alt="slawoe" /></p>
 
 ---
 ### More about me:

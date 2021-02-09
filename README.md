@@ -30,8 +30,7 @@ This is exactly what I have successfully completed with my App [Moodster](https:
 📚 &nbsp;ongoing learning is absolutely important for me  
 👾 &nbsp;gaming in my freetime  
 🔭 &nbsp;currently working on my app Moodster & some little projects  
-🌱 &nbsp;currently learning to improve my skills in React.js
-
+🌱 &nbsp;currently learning to improve my skills in React.js & Docker  
 👥 &nbsp;love to work in teams  
 ☕️ &nbsp;always available for a good conversation  
 💬 &nbsp;ask me about everything you want  

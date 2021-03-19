@@ -27,7 +27,7 @@ This is exactly what I have successfully completed with my App [Moodster](https:
 👨‍👩‍👧‍👦 &nbsp;even if I love to code, family always comes first  
 💪 &nbsp;trying to get a better developer and person every single day  
 📚 &nbsp;ongoing learning is absolutely important for me  
-🏠💻 &nbsp;wokring @hatchery.io  
+💻 &nbsp;working @hatchery.io  
 👾 &nbsp;gaming in my freetime  
 🔭 &nbsp;currently working on my app Moodster & some little projects  
 🌱 &nbsp;currently learning to improve my skills in React.js & Docker  

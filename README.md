@@ -1,10 +1,10 @@
 Hi there 👋 ,
 
-my name is Slawomir Ernst and I'm a Frontend Web Developer from Lüneburg who has left sales behind to pursue what I enjoy most: Coding and learning new stuff and ways to solve problems on a daily basis.
+my name is Slawomir Ernst and I'm a Frontend Developer from Lüneburg who has left sales behind to pursue what I enjoy most: Coding and learning new stuff and ways to solve problems on a daily basis.
 
-I wrote my first website in pure HTML at the age of 13 and have privately dealt with web development again and again, until this year I finally decided to realize my hobby professionally and to attend a web development boot camp to work as a developer in the future.
+I wrote my first website in pure HTML at the age of 13 and have privately dealt with web development again and again, until 2020 I finally decided to realize my hobby professionally and to attend a web development boot camp which I successfully completed with my app [Moodster](https://github.com/slawoe/moodster).
 
-This is exactly what I have successfully completed with my App [Moodster](https://github.com/slawoe/moodster).
+I now work as a Frontend Developer at hatchery.io.
 
 ---
 
@@ -27,7 +27,6 @@ This is exactly what I have successfully completed with my App [Moodster](https:
 👨‍👩‍👧‍👦 &nbsp;even if I love to code, family always comes first  
 💪 &nbsp;trying to get a better developer and person every single day  
 📚 &nbsp;ongoing learning is absolutely important for me  
-💻 &nbsp;working @hatchery.io  
 👾 &nbsp;gaming in my freetime  
 🔭 &nbsp;currently working on my app Moodster & some little projects  
 🌱 &nbsp;currently learning to improve my skills in React.js & Docker  

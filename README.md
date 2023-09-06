@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Slawo</h1>
-I am a frontend developer from Lüneburg, Germany, who left sales behind to pursue what I enjoy most: programming and learning new things as well as problem solving every day.
+<br/>
 
-I wrote my first website in pure HTML at the age of 13 (1999) and have been privately involved with web development ever since. In 2020 I decided to turn my "hobby" into a professional career and attended the web development bootcamp at [**neue fische**](https://www.neuefische.de/).
+I am a frontend developer from Lüneburg, Germany, who left sales behind to pursue what I enjoy most: programming and learning new things as well as problem solving every day.
+<br/>
+
+I wrote my first website in pure HTML at the age of 13 (1999) and have been privately involved with web development ever since. In 2020 I decided to turn my "hobby" into a professional career and attended the web development bootcamp at [neue fische](https://www.neuefische.de/).
+<br/>
+
+Now, after 3 years of professional experience in development, I can safely say that this was the right step for me and that I have finally arrived professionally.
+
+<br/>
 
 👨‍👩‍👧‍👦 &nbsp;Even if I love to code, family always comes first  
 💪 &nbsp;I'm trying to get a better developer and person every single day  

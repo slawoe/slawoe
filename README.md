@@ -1,102 +1,44 @@
-<h1 align="center">Hi 👋, I'm Slawo</h1>
-<br/>
+# Hi, I'm Slawo 👋
 
-I am a frontend developer from Lüneburg, Germany, who left sales behind to pursue what I enjoy most: programming and learning new things as well as problem solving every day.
-<br/>
-
-I wrote my first website in pure HTML at the age of 13 (1999) and have been privately involved with web development ever since. In 2020 I decided to turn my "hobby" into a professional career and attended the web development bootcamp at [neue fische](https://www.neuefische.de/).
-<br/>
-
-Now, after 3 years of professional experience in development, I can safely say that this was the right step for me and that I have finally arrived professionally.
-
-<br/>
-
-👨‍👩‍👧‍👦 &nbsp;Even if I love to code, family always comes first  
-💪 &nbsp;I'm trying to get a better developer and person every single day  
-📚 &nbsp;Ongoing learning is absolutely important for me  
-👾 &nbsp;I'm gaming in my freetime  
-👥 &nbsp;I love to work in teams  
-🔭 &nbsp;I’m currently working on a second version of [**Moodster**](https://github.com/slawoe/moodster)  
-🌱 &nbsp;I’m currently learning **Vue** and some **Python**  
-💬 &nbsp;Ask me about everything you want  
-📫 &nbsp;How to reach me: **mail@slawomirernst.de**  
-⚡ &nbsp;Fun fact about me: if you translate my surname to English it means serious
+**IT Enthusiast · Experienced Web Developer · Aspiring IT Specialist (Fachinformatiker für Systemintegration, IHK)**
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/slawomirernst" target="blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slawomirernst" height="30" width="40" /></a>
-<a href="https://instagram.com/devs_the_way" target="blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devs_the_way" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13946859" target="blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13946859" height="30" width="40" /></a>
-</p>
+👨‍👩‍👧‍👦 &nbsp;Family always comes first<br/>
+💻 &nbsp;Technology has been part of my life for decades<br/>
+🧠 &nbsp;Always curious, always learning<br/>
+🔐 &nbsp;Working towards a future in Cybersecurity<br/>
+🖥️ &nbsp;Still passionate about web development and coding<br/>
+👥 &nbsp;I enjoy teamwork and solving problems together<br/>
+💬 &nbsp;Feel free to ask me about web development, IT, or my career journey<br/>
+⚡ &nbsp;Fun fact: My surname translates to “serious” in English<br/>
+
+## About me
+<p>My journey with technology started back in 1999, when I was just 13 years old and began building my first websites. What started as a hobby gradually grew into a passion for web development and eventually became my profession. In 2020, I attended a web development bootcamp at neue fische, which helped me further develop my skills and take the next step in my career.</p>
+<p>Before and alongside my journey into tech, I gained experience in different professional fields, including emergency services and sales. These experiences have shaped the way I approach challenges, communicate with people and work towards solutions.</p>
+<p>Today, I'm pursuing a new direction in IT. I'm currently retraining to become an IT Specialist for System Integration (Fachinformatiker für Systemintegration, IHK). I'm expanding my knowledge of IT infrastructure, operating systems and networking, building on my existing technical background.</p>
+<p>My long-term goal is to specialize in cybersecurity. I'm interested in understanding how systems work, how networks connect devices and services, and how technology can be protected. I'm looking forward to gaining practical experience and developing my skills in this field.</p>
+<p>Although my professional focus is changing, web development remains an important part of my background. I still enjoy working on personal projects and exploring ideas whenever inspiration strikes.</p>
+
+## Areas of interest
+- **IT System Integration:** Learning about systems, infrastructure and how IT environments work together.
+- **Networking:** Developing a stronger understanding of network fundamentals and communication between systems.
+- **Cybersecurity:** Exploring security concepts and working towards a future specialization.
+- **Web Development:** Keeping my development skills alive through personal projects.
+- **Design & Creativity:** Combining technical thinking with an eye for usability and visual design.
+
+## My journey
+- **1999:** Started exploring web development and building websites at the age of 13.
+- **2020:** Completed a web development bootcamp at neue fische.
+- **Professional background:** Experience in web development, emergency services and sales.
+- **Currently:** Retraining as an IT Specialist for System Integration (IHK).
+- **Looking ahead:** Building a solid IT foundation and moving towards Cybersecurity.
+
+## Find me online
+
+💼 **[LinkedIn](https://linkedin.com/in/slawomirernst)**<br/>
+✉️ **mail@slawomirernst.de**
 
 ---
 
-<h3 align="center">My Stack - Languages and Tools</h3>
-
-<h4 align="center">Programming Languages</h4>
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">Frontend Development</h4>
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
-<br/>
-<a href="https://storybook.js.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> 
-</p>
-
-<h4 align="center">Backend Development & Databases</h4>
-<p align="center">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
-</p>
-
-<h4 align="center">Design Software</h4>
-<p align="center">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-<!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer noopener"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
-
-<h4 align="center">Other</h4>
-<p align="center">
-<a href="https://heroku.com" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer noopener"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<br/>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/></a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a> 
-</p>
-
----
-
-<h3 align="center">My Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slawoe&show_icons=true&locale=en&layout=compact" alt="slawoe" /> </p>
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=slawoe&&theme=graywhite&show_icons=true&locale=en" alt="slawoe" /> </p> -->
-<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=slawoe&" alt="slawoe" /> </p> -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slawoe" alt="slawoe" /></a> </p> -->
-
----
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=slawoe&label=Profile%20views&color=0e75b6&style=flat" alt="slawoe" /> </p> -->
+*Family first. Stay curious. Keep learning. Build with purpose.*
